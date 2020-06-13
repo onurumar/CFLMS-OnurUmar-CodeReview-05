@@ -1,0 +1,33 @@
+var movies = `[
+    {
+        "title": "Shutter Island",
+        "description": "This guy thinks he is a police officer",
+        "image": "media/shutterisland.jpg",
+        "likes": 400
+    }, {
+        "title": "Thor",
+        "description": "Superhero with long hair.",
+        "image": "media/thor.jpg",
+        "likes": 300
+    }, {
+        "title": "Inception",
+        "description": "A dream in a dream in a dream in a dream.",
+        "image": "media/incepteption.jpg",
+        "likes": 200
+    }, {
+        "title": "Avengers",
+        "description": "Another superhero movie",
+        "image": "media/avenger.jpg",
+        "likes": 150
+    } , {
+        "title": "Jumanji",
+        "description": "This is a djungle movie",
+        "image": "media/jumanji.jpg",
+        "likes": 100
+    } , {
+        "title": "Fast & Furious",
+        "description": "Fast cars, and the motto of the movie is ride or die",
+        "image": "media/ff.jpg",
+        "likes": 50
+    }
+]`
